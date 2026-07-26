@@ -108,3 +108,13 @@ confidence_score = prediction[0][index]
 print("Class:", class_name[2:], end="")
 print("Confidence Score:", confidence_score)
 ```
+##  Result & Execution Output
+
+<img width="628" height="95" alt="Screenshot 2026-07-26 170156" src="https://github.com/user-attachments/assets/23016517-270a-45f0-91f7-21d0ec3f9a95" />
+
+The above shows the actual execution of the inference script running on **Google Colab**. 
+
+###  Console Output
+```text
+Class: Lily Flower
+Confidence Score: 0.99997616
